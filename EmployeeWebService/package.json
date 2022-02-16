@@ -1,0 +1,23 @@
+{
+    "name": "empcrud",
+    "version": "1.0.0",
+    "description": "employee CRUD application",
+    "main": "app.js",
+    "scripts": {
+        "test": "test ksjd"
+    },
+    "keywords": [
+        "webapp",
+        "crud"
+    ],
+    "dependencies": {
+        "body-parser": "^1.10.1",
+        "mongoose": "^6.1.2",
+        "mongodb": "^2.1.16",
+        "express": "^4.10.7",
+        "moment": "^2.9.0",
+        "nodemon": "^1.2.1"
+    },
+    "author": "Kishori",
+    "license": "ISC"
+}
